@@ -1,0 +1,6 @@
+[submodule "MrG.AI.Client"]
+	path = MrG.AI.Client
+	url = https://github.com/RazvanManolache/Mr.G-AI-Client-.Net-Library
+[submodule "MrG.AI.Desktop.UWP"]
+	path = MrG.AI.Desktop.UWP
+	url = https://github.com/RazvanManolache/Mr.G-AI-Desktop-UWP
